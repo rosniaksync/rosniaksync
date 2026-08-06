@@ -2,19 +2,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&pause=1000&color=F7E017&background=000000&center=true&width=900&height=200&lines=Hey%2C+I'm+Gabriel;BackEnd+Developer;" alt="Typing SVG" />
 </div>
 
-**Full Stack Developer** · São Paulo, Brazil
+**BackEnd Developer** · São Paulo, Brazil
 
-I build complete web and mobile applications: **C# and .NET** on the backend, **Next.js and React** on the frontend. Database modeling, API design, interface, deploy. The whole path from idea to production.
+Construo sistemas onde consistência e confiabilidade não são negociáveis — já apliquei isso em sistemas de agendamento com controle de concorrência (evitar duplo agendamento é o mesmo problema que evitar dupla transação). Foco em APIs previsíveis, testadas e auditáveis.
 
-Right now I'm a freelance junior developer at [CRMap](https://github.com/CRMap), building .NET APIs with PostgreSQL and shipping mobile features in React Native. Before writing code for a living, I was on the finance side of a company automating repetitive work with Python. That experience shaped how I build software: understand the real problem first, then write the code that solves it.
+Atualmente sou estudante de Desenvolvimento de Sistemas, aprofundando conhecimento em **Java, Spring Boot, Docker e AWS**, com foco em construir APIs backend robustas e sistemas escaláveis. Venho construindo projetos reais que façam diferença e me permitam aprofundar meus estudos. Busco entender o ciclo completo de um sistema — por isso também estudo infraestrutura, para aprender a levar cada projeto do zero até o deploy em produção.
 
-### Now
+### Agora
 
-- Shipping features at [CRMap](https://github.com/CRMap) (C#/.NET + React Native)
-- Founder at [DevBrito](https://devbrito.com.br), a studio building landing pages and custom systems from scratch, straight from briefing to deploy
-- Going deeper into the .NET ecosystem · AWS Cloud Practitioner planned for 2026
+- Construindo um projeto de rastreamento em tempo real completo com **Java, Spring Boot, Docker e AWS**
+- Aprofundando estudos em infraestrutura para dominar o ciclo do zero ao deploy
+- Me preparando para a certificação **AWS Cloud Practitioner** em 2026
 ### What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,bun,ts,js,graphql,nextjs,html,css,sass,prisma,git,gitlab,python,figma,github,ai,ps,discord" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,aws,maven,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=java&logoColor=black" />
 </p>
