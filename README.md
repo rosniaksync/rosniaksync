@@ -13,7 +13,7 @@ Atualmente sou estudante de Desenvolvimento de Sistemas, aprofundando conhecimen
 - Construindo um projeto de rastreamento em tempo real completo com **Java, Spring Boot, Docker e AWS**
 - Aprofundando estudos em infraestrutura para dominar o ciclo do zero ao deploy
 - Me preparando para a certificação **AWS Cloud Practitioner** em 2026
-### What I work with
+### Minhas Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,aws,maven,git,github" />
@@ -24,4 +24,15 @@ Atualmente sou estudante de Desenvolvimento de Sistemas, aprofundando conhecimen
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=java&logoColor=black" />
+</p>
+
+### Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielrosniak">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rosniakid@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-F7E017?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
 </p>
