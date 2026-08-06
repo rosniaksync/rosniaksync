@@ -1,5 +1,6 @@
-# Hi 👋, I'm Gabriel Rosniak
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7E017&background=000000&center=true&width=600&height=80&lines=Hey%2C+I'm+Gabriel;BackEnd+Developer;Building+with+.NET+%26+React" alt="Typing SVG" />
+</div>
 🚀 **Junior Software Engineer | Java & Spring Boot**  
 🇧🇷 Brazil
 
