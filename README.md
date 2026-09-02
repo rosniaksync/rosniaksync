@@ -16,7 +16,7 @@ Atualmente sou estudante de Desenvolvimento de Sistemas, aprofundando conhecimen
 ### Minhas Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,aws,maven,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,hibernate,mysql,postgres,docker,aws,maven,git,github" />
 </p>
 
 <p align="center">
