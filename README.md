@@ -1,18 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&pause=1000&color=F7E017&background=000000&center=true&width=900&height=200&lines=Hey%2C+I'm+Gabriel;BackEnd+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&pause=1000&color=F7E017&background=000000&center=true&width=900&height=200&lines=Hey%2C+I'm+Gabriel;FullStack+Developer;" alt="Typing SVG" />
 </div>
 
-**BackEnd Developer** · São Paulo, Brazil
+**FullStack Developer** · São Paulo, Brazil
 
 Construo sistemas onde consistência e confiabilidade não são negociáveis — já apliquei isso em sistemas de agendamento com controle de concorrência (evitar duplo agendamento é o mesmo problema que evitar dupla transação). Foco em APIs previsíveis, testadas e auditáveis.
 
-Atualmente sou estudante de Desenvolvimento de Sistemas, aprofundando conhecimento em **Java, Spring Boot, Docker e AWS**, com foco em construir APIs backend robustas e sistemas escaláveis. Venho construindo projetos reais que façam diferença e me permitam aprofundar meus estudos. Busco entender o ciclo completo de um sistema — por isso também estudo infraestrutura, para aprender a levar cada projeto do zero até o deploy em produção.
+Atualmente sou estudante de Desenvolvimento de Sistemas, aprofundando conhecimento em **Java, Html, Css, Js, React, Spring Boot, Docker e AWS**, com foco em construir APIs backend robustas e sistemas escaláveis integrando com o frontend. Venho construindo projetos reais e, com a experiência que tenho no meu emprego atual, busco fazer a diferença enquanto aprofundo meus estudos. Busco entender o ciclo completo de um sistema — por isso também estudo infraestrutura, para aprender a levar cada projeto do zero até o deploy em produção.
 
-### Agora
-
-- Construindo um projeto de rastreamento em tempo real completo com **Java, Spring Boot, Docker e AWS**
-- Aprofundando estudos em infraestrutura para dominar o ciclo do zero ao deploy
-- Me preparando para a certificação **AWS Cloud Practitioner** em 2026
 ### Minhas Tecnologias
 
 <p align="center">
