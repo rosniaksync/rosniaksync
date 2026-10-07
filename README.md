@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&pause=1000&color=F7E017&background=000000&center=true&width=900&height=200&lines=Hey%2C+I'm+Gabriel;FullStack+Developer;" alt="Typing SVG" />
 </div>
 
-**FullStack Developer** · São Paulo, Brazil
+**FullStack Developer** · Jaraguá do Sul, Brazil
 
 Construo sistemas onde consistência e confiabilidade não são negociáveis — já apliquei isso em sistemas de agendamento com controle de concorrência (evitar duplo agendamento é o mesmo problema que evitar dupla transação). Foco em APIs previsíveis, testadas e auditáveis.
 
